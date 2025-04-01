@@ -1,4 +1,4 @@
 # student-help
 this is my first repositary
 <br>
-author-mohit sriwastava
+author-mohit (class)
